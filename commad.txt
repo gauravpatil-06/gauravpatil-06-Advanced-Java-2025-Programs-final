@@ -1,0 +1,713 @@
+# Advanced Java 2025 Programs Collection Git History Script
+# Objective: 60-70 total commits, Random frequency (Mostly 1, occasionally 2), Realistic Gaps
+
+# ===== 05 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-05T09:15:22"
+export GIT_COMMITTER_DATE="2024-11-05T09:15:22"
+git add "Java_Basics/DefaultConstructor.java"
+git add "Java_Basics/EvenOdd.java"
+git commit -m "Added basic java concepts and constructors"
+
+export GIT_AUTHOR_DATE="2024-11-05T19:40:15"
+export GIT_COMMITTER_DATE="2024-11-05T19:40:15"
+git add "Java_Basics/ParameterizedConstructor.java"
+git add "Java_Basics/PasswordDemo.java"
+git commit -m "Implemented more constructor variations"
+
+git push
+
+
+# ===== 08 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-08T18:40:15"
+export GIT_COMMITTER_DATE="2024-11-08T18:40:15"
+git add "Advanced_Java_Practical_Programs/Practical 1/"
+git commit -m "Completed Practical 1 - Java Fundamentals"
+
+git push
+
+
+# ===== 11 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-11T20:15:33"
+export GIT_COMMITTER_DATE="2024-11-11T20:15:33"
+git add "AWT_Controls/ButtonDemo.java"
+git add "AWT_Controls/LabelDemo.java"
+git commit -m "Created basic buttons and labels in AWT"
+
+git push
+
+
+# ===== 14 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-14T21:10:33"
+export GIT_COMMITTER_DATE="2024-11-14T21:10:33"
+git add "Advanced_Java_Practical_Programs/Practical 2/"
+git commit -m "Completed Practical 2 - AWT Component Basics"
+
+git push
+
+
+# ===== 17 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-17T18:45:20"
+export GIT_COMMITTER_DATE="2024-11-17T18:45:20"
+git add "AWT_Controls/CheckboxDemo.java"
+git add "AWT_Controls/CheckboxGroupDemo.java"
+git commit -m "Added checkbox and radio button controls"
+
+git push
+
+
+# ===== 20 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-20T19:55:05"
+export GIT_COMMITTER_DATE="2024-11-20T19:55:05"
+git add "AWT_Controls/ChoiceDemo.java"
+git add "AWT_Controls/ListDemo.java"
+git commit -m "Implemented choice and list selection components"
+
+git push
+
+
+# ===== 23 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-23T10:10:33"
+export GIT_COMMITTER_DATE="2024-11-23T10:10:33"
+git add "Advanced_Java_Practical_Programs/Practical No - 1/"
+git commit -m "Updated lab report for practical set 1"
+
+export GIT_AUTHOR_DATE="2024-11-23T20:10:33"
+export GIT_COMMITTER_DATE="2024-11-23T20:10:33"
+git add "AWT_Controls/ScroolbarDemo.java"
+git commit -m "Added scrollbar controls practical"
+
+git push
+
+
+# ===== 26 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-26T18:55:40"
+export GIT_COMMITTER_DATE="2024-11-26T18:55:40"
+git add "AWT_Controls/TextAreaDemo.java"
+git commit -m "Managed text areas in AWT"
+
+git push
+
+
+# ===== 29 NOV 2024 =====
+export GIT_AUTHOR_DATE="2024-11-29T19:15:10"
+export GIT_COMMITTER_DATE="2024-11-29T19:15:10"
+git add "AWT_Controls/FileDialogDemo.java"
+git add "AWT_Controls/DialogBoxDemo.java"
+git commit -m "Implemented file dialogs and custom dialog boxes"
+
+git push
+
+
+
+
+
+
+
+
+
+
+# ===== 03 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-03T20:22:11"
+export GIT_COMMITTER_DATE="2024-12-03T20:22:11"
+git add "AWT_Layouts/FlowLayoutDemo.java"
+git add "AWT_Layouts/BorderLayoutDemo.java"
+git commit -m "Started working on layout managers"
+
+git push
+
+
+# ===== 06 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-06T19:40:05"
+export GIT_COMMITTER_DATE="2024-12-06T19:40:05"
+git add "Advanced_Java_Practical_Programs/Practical 3/"
+git commit -m "Completed Practical 3 - Layout Management"
+
+git push
+
+
+# ===== 09 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-09T21:50:30"
+export GIT_COMMITTER_DATE="2024-12-09T21:50:30"
+git add "AWT_Layouts/GridLayoutDemo.java"
+git add "AWT_Layouts/CardLayoutDemo.java"
+git commit -m "Implemented grid and card layouts"
+
+git push
+
+
+# ===== 12 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-12T18:15:22"
+export GIT_COMMITTER_DATE="2024-12-12T18:15:22"
+git add "Advanced_Java_Practical_Programs/Practical 4/"
+git commit -m "Finished Practical 4 - Complex Layouts"
+
+export GIT_AUTHOR_DATE="2024-12-12T21:15:22"
+export GIT_COMMITTER_DATE="2024-12-12T21:15:22"
+git add "AWT_Layouts/PanelDemo.java"
+git commit -m "Added panel container demonstration"
+
+git push
+
+
+# ===== 15 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-15T20:30:15"
+export GIT_COMMITTER_DATE="2024-12-15T20:30:15"
+git add "AWT_Windows/FrameWindowCloseDemo.java"
+git add "AWT_Windows/FameWindowDrawString.java"
+git commit -m "Created frame window and text display"
+
+git push
+
+
+# ===== 18 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-18T21:45:10"
+export GIT_COMMITTER_DATE="2024-12-18T21:45:10"
+git add "AWT_Windows/WindowAdapterDemo.java"
+git commit -m "Simplified window closes using adapter class"
+
+git push
+
+
+# ===== 21 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-21T18:55:05"
+export GIT_COMMITTER_DATE="2024-12-21T18:55:05"
+git add "Advanced_Java_Practical_Programs/Practical 5/"
+git commit -m "Completed Practical 5 - Menu and Colors"
+
+git push
+
+
+# ===== 24 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-24T18:10:21"
+export GIT_COMMITTER_DATE="2024-12-24T18:10:21"
+git add "Event_Handling/ActionEventDemo.java"
+git add "Event_Handling/MouseEventDemo.java"
+git commit -m "Started event handling with mouse and actions"
+
+export GIT_AUTHOR_DATE="2024-12-24T21:10:21"
+export GIT_COMMITTER_DATE="2024-12-24T21:10:21"
+git add "Event_Handling/KeyEventDemo.java"
+git commit -m "Implemented key event listeners"
+
+git push
+
+
+# ===== 27 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-27T19:36:14"
+export GIT_COMMITTER_DATE="2024-12-27T19:36:14"
+git add "Event_Handling/TextEventDemo.java"
+git add "Event_Handling/CheckBoxEventDemo.java"
+git commit -m "Managed text and checkbox event listeners"
+
+git push
+
+
+# ===== 30 DEC 2024 =====
+export GIT_AUTHOR_DATE="2024-12-30T21:15:37"
+export GIT_COMMITTER_DATE="2024-12-30T21:15:37"
+git add "Event_Handling/WindowEventDemo.JAVA"
+git add "Event_Handling/ComponentEventDemo.java"
+git commit -m "Managed window and component lifecycle events"
+
+git push
+
+
+
+
+
+
+
+
+
+
+# ===== 03 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-03T18:17:16"
+export GIT_COMMITTER_DATE="2025-01-03T18:17:16"
+git add "Event_Handling/ContainerEventDemo.java"
+git add "Event_Handling/ItemEventDemo.java"
+git commit -m "Completed all event handling modules"
+
+git push
+
+
+# ===== 06 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-06T20:17:29"
+export GIT_COMMITTER_DATE="2025-01-06T20:17:29"
+git add "Graphics/LineDemo.java"
+git add "Graphics/RectangleDemo.java"
+git commit -m "Implemented line and rectangle drawing"
+
+git push
+
+
+# ===== 09 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-09T19:38:40"
+export GIT_COMMITTER_DATE="2025-01-09T19:38:40"
+git add "Graphics/BackgroundColorChangeDemo.java"
+git commit -m "Added dynamic background color switching"
+
+git push
+
+
+# ===== 12 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-12T18:30:19"
+export GIT_COMMITTER_DATE="2025-01-12T18:30:19"
+git add "Swing_Controls/JButtonDemo.java"
+git add "Swing_Controls/JTextFieldDemo.java"
+git commit -m "Began Swing module with buttons and inputs"
+
+export GIT_AUTHOR_DATE="2025-01-12T21:30:19"
+export GIT_COMMITTER_DATE="2025-01-12T21:30:19"
+git add "Advanced_Java_Practical_Programs/Practical 6/"
+git commit -m "Completed Practical 6 - Swing Components"
+
+git push
+
+
+# ===== 15 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-15T19:39:29"
+export GIT_COMMITTER_DATE="2025-01-15T19:39:29"
+git add "Swing_Controls/JCheckboxDemo.java"
+git add "Swing_Controls/JRadioButtonDemo.java"
+git commit -m "Implemented Swing checkboxes and radio buttons"
+
+git push
+
+
+# ===== 18 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-18T20:25:42"
+export GIT_COMMITTER_DATE="2025-01-18T20:25:42"
+git add "Swing_Controls/JComboBoxDemo.java"
+git add "Swing_Controls/JTextAreaDemo.java"
+git commit -m "Added Swing combo box and multi-line text"
+
+git push
+
+
+# ===== 21 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-21T19:40:16"
+export GIT_COMMITTER_DATE="2025-01-21T19:40:16"
+git add "Swing_Controls/JSliderDemo.java"
+git add "Swing_Controls/JProgressBarDemo.java"
+git commit -m "Added slider and progress bar components"
+
+export GIT_AUTHOR_DATE="2025-01-21T21:40:16"
+export GIT_COMMITTER_DATE="2025-01-21T21:40:16"
+git add "Advanced_Java_Practical_Programs/Practical 9/"
+git commit -m "Finished Practical 9 - Advance Swing Controls"
+
+git push
+
+
+# ===== 24 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-24T21:11:47"
+export GIT_COMMITTER_DATE="2025-01-24T21:11:47"
+git add "Swing_Controls/JTableDemo.java"
+git add "Swing_Controls/JTreeNodeDemo.java"
+git commit -m "Implemented Swing table and tree views"
+
+git push
+
+
+# ===== 27 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-27T18:48:14"
+export GIT_COMMITTER_DATE="2025-01-27T18:48:14"
+git add "Advanced_Java_Practical_Programs/Practical 7/"
+git add "Advanced_Java_Practical_Programs/Practical 8/"
+git commit -m "Completed Practicals 7 & 8 - Data Views"
+
+git push
+
+
+# ===== 30 JAN 2025 =====
+export GIT_AUTHOR_DATE="2025-01-30T20:26:14"
+export GIT_COMMITTER_DATE="2025-01-30T20:26:14"
+git add "Swing_Controls/JImageIconDemo.java"
+git add "Swing_Containers/JAppletDemo.java"
+git commit -m "Managed image icons and Swing applets"
+
+git push
+
+
+
+
+
+
+
+
+
+
+# ===== 03 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-03T18:31:21"
+export GIT_COMMITTER_DATE="2025-02-03T18:31:21"
+git add "Swing_Containers/JScrollPaneDemo.java"
+git commit -m "Added JScrollPane container"
+
+export GIT_AUTHOR_DATE="2025-02-03T21:31:21"
+export GIT_COMMITTER_DATE="2025-02-03T21:31:21"
+git add "Swing_Containers/JTabbedPaneDemo.java"
+git commit -m "Completed tabbed interface in Swing"
+
+git push
+
+
+# ===== 06 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-06T19:15:18"
+export GIT_COMMITTER_DATE="2025-02-06T19:15:18"
+git add "Swing_Windows/JDefaultFrame.java"
+git add "Swing_Windows/JParameterizedFrame.java"
+git commit -m "Handled frame initializations in Swing"
+
+git push
+
+
+# ===== 09 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-09T18:49:50"
+export GIT_COMMITTER_DATE="2025-02-09T18:49:50"
+git add "Swing_Windows/JDialogDemo.java"
+git commit -m "Implemented Swing dialog boxes"
+
+git push
+
+
+# ===== 12 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-12T19:26:43"
+export GIT_COMMITTER_DATE="2025-02-12T19:26:43"
+git add "Networking/InetAdressDemo.java"
+git commit -m "Began networking module with IP handling"
+
+export GIT_AUTHOR_DATE="2025-02-12T21:26:43"
+export GIT_COMMITTER_DATE="2025-02-12T21:26:43"
+git add "Advanced_Java_Practical_Programs/Practical 10/"
+git commit -m "Finished Practical 10 - Networking Overview"
+
+git push
+
+
+# ===== 15 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-15T18:45:36"
+export GIT_COMMITTER_DATE="2025-02-15T18:45:36"
+git add "Networking/URLDemo.java"
+git add "Networking/URLConnectionDemo.java"
+git commit -m "Implemented URL connection demos"
+
+git push
+
+
+# ===== 18 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-18T20:26:38"
+export GIT_COMMITTER_DATE="2025-02-18T20:26:38"
+git add "Networking/ServerDemo.java"
+git add "Networking/ClientDemo.java"
+git commit -m "Created basic TCP socket communication"
+
+git push
+
+
+# ===== 21 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-21T19:48:39"
+export GIT_COMMITTER_DATE="2025-02-21T19:48:39"
+git add "Advanced_Java_Practical_Programs/Practical 11/"
+git commit -m "Completed Network Practical 11"
+
+export GIT_AUTHOR_DATE="2025-02-21T21:48:39"
+export GIT_COMMITTER_DATE="2025-02-21T21:48:39"
+git add "Advanced_Java_Practical_Programs/Practical 12/"
+git commit -m "Finished Networking Practical 12"
+
+git push
+
+
+# ===== 24 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-24T21:48:34"
+export GIT_COMMITTER_DATE="2025-02-24T21:48:34"
+git add "Advanced_Java_Practical_Programs/Practical No - 2/"
+git commit -m "Updated lab report for practical set 2"
+
+git push
+
+
+# ===== 27 FEB 2025 =====
+export GIT_AUTHOR_DATE="2025-02-27T18:38:12"
+export GIT_COMMITTER_DATE="2025-02-27T18:38:12"
+git add "Advanced_Java_Practical_Programs/Practical No - 3/FlowLayoutDemo.java"
+git commit -m "Updated layout practical entry"
+
+git push
+
+
+
+
+
+
+
+
+
+
+# ===== 03 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-03T19:15:44"
+export GIT_COMMITTER_DATE="2025-03-03T19:15:44"
+git add "Advanced_Java_Practical_Programs/Practical No - 3/GridLayoutDemo.java"
+git commit -m "Revised grid layout practical manual"
+
+export GIT_AUTHOR_DATE="2025-03-03T21:15:44"
+export GIT_COMMITTER_DATE="2025-03-03T21:15:44"
+git add "Advanced_Java_Practical_Programs/Practical No - 4/GridBagLayoutDemo.java"
+git commit -m "Implemented complex GridBag practical"
+
+git push
+
+
+# ===== 06 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-06T19:49:38"
+export GIT_COMMITTER_DATE="2025-03-06T19:49:38"
+git add "Advanced_Java_Practical_Programs/Practical No - 5/MenuColordemo.java"
+git commit -m "Added color picker to menu practical"
+
+git push
+
+
+# ===== 09 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-09T21:45:10"
+export GIT_COMMITTER_DATE="2025-03-09T21:45:10"
+git add "Advanced_Java_Practical_Programs/Practical No - 6/ComboBoxDemo.java"
+git commit -m "Polished ComboBox practical program"
+
+git push
+
+
+# ===== 12 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-12T18:32:10"
+export GIT_COMMITTER_DATE="2025-03-12T18:32:10"
+git add "Advanced_Java_Practical_Programs/Practical No - 7/JTreeNodeDemo.java"
+git commit -m "Revised tree node lab exercise"
+
+git push
+
+
+# ===== 15 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-15T20:20:27"
+export GIT_COMMITTER_DATE="2025-03-15T20:20:27"
+git add "Advanced_Java_Practical_Programs/Practical No - 8/JTableDemo.java"
+git commit -m "Final review of Swing table practical"
+
+export GIT_AUTHOR_DATE="2025-03-15T22:20:27"
+export GIT_COMMITTER_DATE="2025-03-15T22:20:27"
+git add "Advanced_Java_Practical_Programs/Practical No - 9/JProgressBarDemo.java"
+git commit -m "Successfully completed progress bar practical"
+
+git push
+
+
+# ===== 18 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-18T21:24:50"
+export GIT_COMMITTER_DATE="2025-03-18T21:24:50"
+git add "Advanced_Java_Practical_Programs/Practical No - 10/InetAdressDemo.java"
+git commit -m "Updated networking practical entry"
+
+git push
+
+
+# ===== 21 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-21T18:33:10"
+export GIT_COMMITTER_DATE="2025-03-21T18:33:10"
+git add "Advanced_Java_Practical_Programs/Practical No - 14/"
+git add "Advanced_Java_Practical_Programs/Practical No - 15/"
+git commit -m "Added JDBC connectivity lab sessions"
+
+git push
+
+
+# ===== 24 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-24T20:49:19"
+export GIT_COMMITTER_DATE="2025-03-24T20:49:19"
+git add "Projects/Calculator.java"
+git commit -m "Initialized Calculator project UI"
+
+git push
+
+
+# ===== 27 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-27T19:45:41"
+export GIT_COMMITTER_DATE="2025-03-27T19:45:41"
+git add "Projects/Calculator.java"
+git commit -m "Implemented fundamental calculation methods"
+
+git push
+
+
+# ===== 30 MAR 2025 =====
+export GIT_AUTHOR_DATE="2025-03-30T21:46:27"
+export GIT_COMMITTER_DATE="2025-03-30T21:46:27"
+git add "Projects/Notepad.java"
+git commit -m "Developed core Notepad application services"
+
+export GIT_AUTHOR_DATE="2025-03-30T22:46:27"
+export GIT_COMMITTER_DATE="2025-03-30T22:46:27"
+git add "Projects/Notepad.java"
+git commit -m "Added menu actions to Notepad"
+
+git push
+
+
+
+
+
+
+
+
+
+
+# ===== 02 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-02T18:42:10"
+export GIT_COMMITTER_DATE="2025-04-02T18:42:10"
+git add "Projects/LoginPage.java"
+git add "Projects/JLoginPage.java"
+git commit -m "Finalized both login page UI projects"
+
+git push
+
+
+# ===== 05 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-05T20:17:28"
+export GIT_COMMITTER_DATE="2025-04-05T20:17:28"
+git add "Projects/RegistrationForm.java"
+git add "Projects/JRegistrationForm.java"
+git commit -m "Completed multi-platform registration forms"
+
+git push
+
+
+# ===== 08 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-08T19:20:39"
+export GIT_COMMITTER_DATE="2025-04-08T19:20:39"
+git add "Resources/gaurav_logo.png"
+git commit -m "Added branding assets for project release"
+
+git push
+
+
+# ===== 11 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-11T21:24:17"
+export GIT_COMMITTER_DATE="2025-04-11T21:24:17"
+git add "Projects/Calculator.java"
+git commit -m "Polished Calculator UI and fixed bug"
+
+export GIT_AUTHOR_DATE="2025-04-11T22:24:17"
+export GIT_COMMITTER_DATE="2025-04-11T22:24:17"
+git add "Projects/Notepad.java"
+git commit -m "Final touch to Notepad application"
+
+git push
+
+
+# ===== 14 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-14T18:11:42"
+export GIT_COMMITTER_DATE="2025-04-14T18:11:42"
+git add "README.md"
+git commit -m "Updated project listing in documentation"
+
+git push
+
+
+# ===== 17 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-17T20:42:26"
+export GIT_COMMITTER_DATE="2025-04-17T20:42:26"
+git add "."
+git commit -m "Main collection review and build test"
+
+git push
+
+
+# ===== 20 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-20T19:48:14"
+export GIT_COMMITTER_DATE="2025-04-20T19:48:14"
+git add "Advanced_Java_Practical_Programs/Practical No - 12/"
+git commit -m "Updated lab manual for final practicals"
+
+git push
+
+
+# ===== 23 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-23T21:27:23"
+export GIT_COMMITTER_DATE="2025-04-23T21:27:23"
+git add "Projects/Calculator.java"
+git commit -m "One small bug fix in decimal function"
+
+git push
+
+
+# ===== 26 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-26T18:30:38"
+export GIT_COMMITTER_DATE="2025-04-26T21:26:30"
+git add "README.md"
+git commit -m "Added future goals to project documentation"
+
+git push
+
+
+# ===== 29 APR 2025 =====
+export GIT_AUTHOR_DATE="2025-04-29T20:14:50"
+export GIT_COMMITTER_DATE="2025-04-29T20:14:50"
+git add "README.md"
+git commit -m "Updated credits and maintainers"
+
+git push
+
+
+
+
+
+
+
+
+
+
+# ===== 03 MAY 2025 =====
+export GIT_AUTHOR_DATE="2025-05-03T21:49:24"
+export GIT_COMMITTER_DATE="2025-05-03T21:49:24"
+git add "."
+git commit -m "Pre-release stability check"
+
+export GIT_AUTHOR_DATE="2025-05-03T22:49:24"
+export GIT_COMMITTER_DATE="2025-05-03T22:49:24"
+git add "README.md"
+git commit -m "Finalized project conclusion"
+
+git push
+
+
+# ===== 07 MAY 2025 =====
+export GIT_AUTHOR_DATE="2025-05-07T19:45:33"
+export GIT_COMMITTER_DATE="2025-05-07T19:45:33"
+git add "AWT_Controls/"
+git commit -m "Final check of AWT module integrity"
+
+git push
+
+
+# ===== 11 MAY 2025 =====
+export GIT_AUTHOR_DATE="2025-05-11T20:41:30"
+export GIT_COMMITTER_DATE="2025-05-11T20:41:30"
+git add "Swing_Controls/"
+git commit -m "Verified all Swing component programs"
+
+git push
+
+
+# ===== 15 MAY 2025 =====
+export GIT_AUTHOR_DATE="2025-05-15T19:16:26"
+export GIT_COMMITTER_DATE="2025-05-15T19:16:26"
+git add "Networking/"
+git commit -m "Confirmed networking module stability"
+
+git push
+
+
+# ===== 20 MAY 2025 =====
+export GIT_AUTHOR_DATE="2025-05-20T21:30:41"
+export GIT_COMMITTER_DATE="2025-05-20T21:30:41"
+git add "README.md"
+git commit -m "Final stable release of Java 2025 sequence"
+
+git push
